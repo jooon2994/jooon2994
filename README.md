@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jooon2994
+- 👋 Hi, I’m Yohannes Aweke
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ...civil engineering in AASTU
 - 💞️ I’m looking to collaborate on ...
