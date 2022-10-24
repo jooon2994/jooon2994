@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yohannes Aweke
 - 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ...civil engineering in AASTU
+- 🌱 I’m currently learning ...civil engineering at AASTU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@joon2994 on telegram
 
