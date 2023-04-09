@@ -7,7 +7,7 @@
         ✓FUll stack developer
         ✓AUTO CAD 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...#@joon2994 on telegram twitter Instagram 
+- 📫 How to reach me ...@joon2994 on telegram twitter Instagram 
 
 <!---
 jooon2994/jooon2994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
