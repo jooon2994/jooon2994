@@ -4,7 +4,10 @@
 - Completed ALX-Software Engineering program by back-end specialization
 - Skills
         ✓Ui/Ux 
-        ✓FUll stack developer
+        ✓HTML
+        ✓Css
+        ✓Javascript
+        ✓Developing telegram bot(mainly)
         ✓AUTO CAD 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@joon2994 on telegram twitter Instagram 
